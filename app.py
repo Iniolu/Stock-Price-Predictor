@@ -4,7 +4,7 @@ import pandas as pd
 import torch
 import torch.nn as nn
 import numpy as np
-# from sklearn.preprocessing import MinMaxScaler
+from sklearn.preprocessing import MinMaxScalerp
 
 
 app = Flask(__name__)
